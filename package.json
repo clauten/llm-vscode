@@ -255,7 +255,7 @@
     "@types/mocha": "^10.0.6",
     "@types/node": "16.x",
     "@types/vscode": "^1.82.0",
-    "@typescript-eslint/eslint-plugin": "^6.21.0",
+    "@typescript-eslint/eslint-plugin": "^6.21.0",jjj
     "@typescript-eslint/parser": "^6.21.0",
     "@vscode/test-electron": "^2.3.9",
     "@vscode/vsce": "^2.23.0",
